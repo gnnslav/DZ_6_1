@@ -1,0 +1,24 @@
+
+.p1 {
+	background: green;
+}
+
+.p2{
+	background: purple;
+}
+
+.p1:active{
+	background: red;
+}
+
+.p2:active{
+	background: gold;
+}
+
+.p1:hover{
+	background: yellow;
+}
+.p2:hover{
+	background: brown;
+}
+
